@@ -1,0 +1,958 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<schedule>
+<conference>
+<acronym>fscons17</acronym>
+<title>FSCONS 2017</title>
+<start>2017-11-04</start>
+<end>2017-11-05</end>
+<days>2</days>
+<timeslot_duration>00:15</timeslot_duration>
+</conference>
+<day date='2017-11-04' end='2017-11-04T20:00:00+01:00' index='1' start='2017-11-04T10:00:00+01:00'>
+<room name='Simula'>
+<event guid='znc3DK6BPtHXHt6oSp8kPA' id='306'>
+<date>2017-11-04T11:00:00+01:00</date>
+<start>11:00</start>
+<duration>00:15</duration>
+<room>Simula</room>
+<slug>fscons17_-_306_-_en_-_simula_-_201711041100_-_welcome_-_kacper_why_-_thomas_gramstad</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Welcome</title>
+<subtitle></subtitle>
+<track>Keynote</track>
+<type>other</type>
+<language>en</language>
+<abstract></abstract>
+<description>Conference opening.</description>
+<persons>
+<person id='282'>Kacper Why</person>
+<person id='11'>Thomas Gramstad</person>
+</persons>
+<links>
+<link href='https://fscons.org/2017/'>FSCONS</link>
+</links>
+</event>
+<event guid='UEkctlSLFuPPF9wLC-7eHg' id='314'>
+<date>2017-11-04T11:15:00+01:00</date>
+<start>11:15</start>
+<duration>00:45</duration>
+<room>Simula</room>
+<slug>fscons17_-_314_-_en_-_simula_-_201711041115_-_resilience_-_vinay_gupta</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Resilience</title>
+<subtitle>How user interface shapes human identity</subtitle>
+<track>Changing society: Redefining social structures for resilience.</track>
+<type>lecture</type>
+<language>en</language>
+<abstract></abstract>
+<description></description>
+<persons>
+<person id='12'>Vinay Gupta</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='3gUln7rfOJPRyC0_b9qUXg' id='318'>
+<date>2017-11-04T12:00:00+01:00</date>
+<start>12:00</start>
+<duration>00:45</duration>
+<room>Simula</room>
+<slug>fscons17_-_318_-_en_-_simula_-_201711041200_-_cryptocurrency_meets_universal_basic_income_-_patrice_riemens</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Cryptocurrency meets Universal Basic Income </title>
+<subtitle>A Marriage Made in Heaven ... or Hell?</subtitle>
+<track>Changing society: Redefining social structures for resilience.</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Some developers of cryptocurrencies have happily jumped on the UBI bandwagon, one (Duniter) even posits itself as conditional to it. I would like to explore if this is a good idea.</abstract>
+<description>The concept of  an Universal, unconditional Basic Income (UBI) is getting increasing traction in many political and economic circles, this in view of the major ('disruptive') changes society in general and the 'labor market' in particular are set to experience in the (very) near future. Though in its essence absurdly simple - the name says it all - UBI forms a complex tangle of issues, and is the subject of fierce debate. Demands for UBI are an outcome of a general discontent with the present dispensation and especially the role of finance in it.  UBI also narrowly connects  with the rise of a new - 'and dangerous'  social class-in-forming  (-Guy Standing): the 'Precariat.' 
+
+Some developers of cryptocurrencies, often also members of the precariat themselves (even if the upper tier of it) -- being by definition adverse to the existing forms of (fiat) money, by now the private property of 'banksters' -- view UBI as being a uniquely appropriate platform to push thru the monetary transformation they envisage, by advocating to pay it out in (their) cryptocurrency . One of these cryptocurrencies, Duniter (1,2), even makes its own existence more or less contingent upon the existence of UBI.
+
+I am not so sure this is a good idea, and this has to do with the still unresolved, and, immo, quite fundamental problems with the 'usability' of cryptocurrencies with the population at large, and the likewise largely unresolved economic issues with the concept of cryptocurrency itself in general. 
+
+Since doubt expresses uncertainty and a wish to discuss, I want to format my talk, just like I did when I discussed Bitcoin at the Göteborg FSCONS in 2015, as a dialogue with the audience, and then especially with the potentially 'tech solutionist' component in it.
+
+
+(1) https://duniter.org/en/presentation/
+(2) http://basicincome.org/news/2017/01/interview-time-digital-basic-income/
+
+</description>
+<persons>
+<person id='200'>Patrice Riemens</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='HqPXJA-AMpWxu7SnaQ0E0A' id='341'>
+<date>2017-11-04T13:00:00+01:00</date>
+<start>13:00</start>
+<duration>00:45</duration>
+<room>Simula</room>
+<slug>fscons17_-_341_-__-_simula_-_201711041300_-_lunch</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Lunch</title>
+<subtitle>we hungry</subtitle>
+<track>Info</track>
+<type>other</type>
+<language></language>
+<abstract></abstract>
+<description></description>
+<persons>
+</persons>
+<links>
+</links>
+</event>
+<event guid='R2FR89u6l8l44iuyDjOoGQ' id='317'>
+<date>2017-11-04T14:00:00+01:00</date>
+<start>14:00</start>
+<duration>00:45</duration>
+<room>Simula</room>
+<slug>fscons17_-_317_-_en_-_simula_-_201711041400_-_networks_of_metal_sweat_and_neurons_-_vladan_joler</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Networks of Metal, Sweat and Neurons</title>
+<subtitle>Keynote</subtitle>
+<track>Keynote</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>In this talk we will explore different black boxes that are mediating and recording our interaction, our deepest personal communications, our behavior and activities.</abstract>
+<description>We will explore how they defined new forms of labor, exploitation and generation of enormous amount of wealth and power for their owners creating a deep economic gap between the ones who own and control the means of production and others who often live below the poverty line. We will explore different forms of immaterial labor, but 
+ also forms of hard physical labor and exploitation hidden behind fractal supply chains and invisible infrastructures of contemporary capitalism.
+</description>
+<persons>
+<person id='15'>Vladan Joler</person>
+</persons>
+<links>
+<link href='www.labs.rs'>www.labs.rs</link>
+</links>
+</event>
+<event guid='lJiLuBa8YLQc8VSdhzmhhw' id='311'>
+<date>2017-11-04T15:00:00+01:00</date>
+<start>15:00</start>
+<duration>00:45</duration>
+<room>Simula</room>
+<slug>fscons17_-_311_-_en_-_simula_-_201711041500_-_the_road_to_open_village_-_nadia_el-imam</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>The road to Open Village</title>
+<subtitle>how to build a core that lasts</subtitle>
+<track>Changing society: Redefining social structures for resilience.</track>
+<type>lecture</type>
+<language>en</language>
+<abstract></abstract>
+<description></description>
+<persons>
+<person id='276'>Nadia EL-Imam</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='xsFxPi5hUsvOEB9OkNqHFw' id='329'>
+<date>2017-11-04T16:00:00+01:00</date>
+<start>16:00</start>
+<duration>00:45</duration>
+<room>Simula</room>
+<slug>fscons17_-_329_-_en_-_simula_-_201711041600_-_love_against_the_machine_-_jeremie_zimmermann</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Love Against the Machine</title>
+<subtitle>Bringing (back?) the fight for computing freedom on our (human) ground</subtitle>
+<track>Open Technology: Infrastructure of the Future?</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>An open discussion as an attempt at building a common understanding and a narrative around the questions of technological colonialism, the loss of control over our devices, and the need to rethink the way we liberate our computing.</abstract>
+<description>Computers changed over the last 20 years, from friendly machines we could understand, control and improve upon to black-boxed prisons designed at controlling us. How come we are now an increasing number to *hate* these machines, when we remember a past in which we used to passionately love them?
+
+From mobile computers (aka &quot;smartphones&quot;) containing black-boxed baseband processors enabling remote control, and kicking the user away from properly owning his device, to generalized Intel CPUs and their &quot;Management Engine&quot; providing also a way for &quot;real masters&quot; of our machines to monitor and control all we do online, the age of the technological optimism is long gone. It is almost impossible today to buy a computer that isn't designed and built as an enemy of its user.
+
+This shift of modern computing towards &quot;enemy machines&quot; has a profound impact on geopolitics (think &quot;Trump's NSA&quot;), on power relationships (think &quot;We know what you did online for the last 15 years&quot;) but also on our humanities and the way we relate to each other: If I cannot understand how a machine works, how will I ever improve it? How will I ever have a chance to participate in a society run by such black boxes?
+
+This open discussion will offer an attempt at a narrative to help us (re)frame the issues surrounding Free/Libre software, and the way we participate in these projects. From a purely technological perspective to a holistic vision based on understanding the ways we interact with each other, at large.</description>
+<persons>
+<person id='304'>Jérémie Zimmermann</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='cALNmc9VW_s2fOED79fY1Q' id='331'>
+<date>2017-11-04T17:00:00+01:00</date>
+<start>17:00</start>
+<duration>00:45</duration>
+<room>Simula</room>
+<slug>fscons17_-_331_-__-_simula_-_201711041700_-_lightning_talks_1</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Lightning Talks 1</title>
+<subtitle> lightning talk session</subtitle>
+<track>Lightning talks</track>
+<type>lightning_talk</type>
+<language></language>
+<abstract></abstract>
+<description></description>
+<persons>
+</persons>
+<links>
+</links>
+</event>
+<event guid='RA4CWG-NV77-44IWpJ785Q' id='309'>
+<date>2017-11-04T18:00:00+01:00</date>
+<start>18:00</start>
+<duration>00:45</duration>
+<room>Simula</room>
+<slug>fscons17_-_309_-_en_-_simula_-_201711041800_-_collect_evidence_of_internet_censorship_-_maria_xynou</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Collect Evidence of Internet Censorship</title>
+<subtitle> A Call to Action</subtitle>
+<track>Changing society: Redefining social structures for resilience.</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Numerous cases of internet censorship have been reported by journalists and NGOs over the last years, but how can we collect evidence to prove such cases? How can we understand how censorship is being implemented, and therefore how it can be circumvented?
+</abstract>
+<description>Since 2012, the Open Observatory of Network Interference (OONI) project has been investigating internet censorship around the world. OONI's network measurement software has shed light on many scary, yet interesting, developments in how information controls are being
+deployed. From Deep Packet Inspection (DPI) technology being used to
+block media websites during heavy political protests, to country-wide
+internet blackouts during elections and other events.
+
+This talk will highlight some of the most striking internet censorship
+events that have been detected by OONI over the last years, and will
+include a discussion of their relation and relevance to social and
+political events. This talk will also explain how you can take action to
+uncover evidence of internet censorship in your country and beyond.</description>
+<persons>
+<person id='287'>Maria Xynou</person>
+</persons>
+<links>
+</links>
+</event>
+</room>
+<room name='Smalltalk'>
+<event guid='yom5KJ_LXDPTbipzbG5gDQ' id='320'>
+<date>2017-11-04T11:15:00+01:00</date>
+<start>11:15</start>
+<duration>00:45</duration>
+<room>Smalltalk</room>
+<slug>fscons17_-_320_-_en_-_smalltalk_-_201711041115_-_the_crumbling_intellectual_infrastructure_of_free_software_free_culture_licensing_-_bradley_kuhn</slug>
+<recording>
+<license>CC BY-SA 4.0</license>
+<optout>false</optout>
+</recording>
+<title>The Crumbling Intellectual Infrastructure of Free Software &amp; Free Culture Licensing</title>
+<subtitle>Do Licenses Drive Communities or Do Communities Drive Licenses?</subtitle>
+<track>Art: Digital and physical forms in modern culture</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>    This talk explores both the historical motivations and modern reactions to licensing matters, and digs deep into understanding how the plethora of policy decisions around licensing, including not just the main license choice, but also CLAs, CAAs, promise documents, and even license bullying tactics, have impacted Open Source, Free Software, and Free Culture communities for both good and ill.</abstract>
+<description>    The license-importance-divide seems almost generational: the older generation cares about licenses and the younger generation does not.  Yet, the historical focus on licensing in Free Software and Free Culture, while occasionally prone to pedantry to a degree only software developers can love, stemmed from serious governance considerations regarding how community members interact.  Most importantly, a license choice of the project bears more heavily than any other decision on the inherent power dynamics that occur within a Free Software or Free Culture community.
+    This talk explores both the historical motivations and modern reactions to licensing matters, and digs deep into understanding how the plethora of policy decisions around licensing, including not just the main license choice, but also CLAs, CAAs, promise documents, and even license bullying tactics, have impacted Open Source, Free Software, and Free Culture communities for both good and ill.
+The structure of Free licensing, which formed the bedrock for Free Software and Free Culture, remains more fragile than most people realize.  With the advent of for-profit corporate interest in leveraging community-created  freely licensed works, a fervor of excited community response to such interest has weakened community social structures. These structures, which historically supplemented the legally-backed licensing infrastructure to assure community resilience.  Changes in both cultural perception and licensing education will likely be necessary to help rebuild these crumbling foundations.
+</description>
+<persons>
+<person id='296'>Bradley Kuhn</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='gGx4yhfq7f9tXlZtR-G-tg' id='338'>
+<date>2017-11-04T12:00:00+01:00</date>
+<start>12:00</start>
+<duration>00:45</duration>
+<room>Smalltalk</room>
+<slug>fscons17_-_338_-_en_-_smalltalk_-_201711041200_-_blindfolding_citizens_for_the_greater_public_good_-_anita_koncsik</slug>
+<recording>
+<license></license>
+<optout>true</optout>
+</recording>
+<title>Blindfolding citizens for the greater public good</title>
+<subtitle>Steps and reasons of distorting freedom of information in Hungary </subtitle>
+<track>Changing society: Redefining social structures for resilience.</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>The lecture aims at analyzing the devolution of the act on freedom of information in Hungary in the last 5 years.
+It presents the current situation from the perspective of Hungarian legislators (and their arguments trying to cover up corruption), and of human right defenders (who fight against reducing amount and quality of public data). It also asks the question: what can we do to protect social publicity even in a hostile environment?</abstract>
+<description>In 2010, for its first term, the reigning party alliance gained constitutional majority and started to redesign Hungary. During the past years, the legal and political system has changed profoundly creating space to state capture and crony capitalism. Besides distorting checks and balances, the most important characteristics of this period is the prevalence of crony-tailored legislation, government supported rent-seeking behavior, ad hoc favoritism, hand-picked conflict of interest rules that are accompanied with the systematic restrictions of freedom of information.
+
+The aim of the tailored legislative acts from these years was all along to avoid recurrence of public data requests submitted by investigative journalists and NGOs, since these requests were (and sometimes still are) successfully enforced during judicial procedures that always lead to huge corruption scandals. 
+
+First, the lecture shortly describes the most important legislative milestones of the freedom of information setback (from the past 5 years). Second, it will present the cases that inspired the restrictions. Third, it devotes special attention to arguments used for these amendments which sheds light on the social psychological aspect of approaching to political freedoms in Hungary. (ie corruption has become equal with serving the utmost national interest and giving rise to a national plutocracy). 
+
+Then finally asks how the government can have a complete disregard even to the provision of the Fundamental Law: “everyone shall have the right […] to access and disseminate data of public interest” and what aware citizens can do to preserve social openness and publicity even in hostile and hipocrite times.
+</description>
+<persons>
+<person id='318'>Anita Koncsik</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='5InEbz_X72ZhQB1B8_AGkg' id='327'>
+<date>2017-11-04T15:00:00+01:00</date>
+<start>15:00</start>
+<duration>00:45</duration>
+<room>Smalltalk</room>
+<slug>fscons17_-_327_-_en_-_smalltalk_-_201711041500_-_a_serious_plan_to_end_advertisement_-_stian_rodven_eide</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>A Serious Plan to End Advertisement</title>
+<subtitle></subtitle>
+<track>Changing society: Redefining social structures for resilience.</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>&quot;Advertisement is to capitalist society what propaganda was to communist society&quot;.
+
+These words are from Sven Lindqvists book &quot;Reklamen är livsfarlig&quot; (Eng: Advertisement Is Lethal), published in 1957 and more or less making him journalist non grata.
+
+Obviously, we failed to heed Lindqvists warning, and advertisement is more ubiquitous than ever. In this talk, I will describe the various problems with advertising, why we don't need it, and how it undermines democracy. I will even present my plan to stop it.</abstract>
+<description></description>
+<persons>
+<person id='2'>Stian Rødven Eide</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='W0Psso-rjKw8xg5U_L5afg' id='339'>
+<date>2017-11-04T16:00:00+01:00</date>
+<start>16:00</start>
+<duration>00:45</duration>
+<room>Smalltalk</room>
+<slug>fscons17_-_339_-_en_-_smalltalk_-_201711041600_-_new_materialism_-_devyn_remme</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>New Materialism</title>
+<subtitle>Out of the ruins</subtitle>
+<track>Changing society: Redefining social structures for resilience.</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>In my presentation I invite people to rethink some fundamental assumptions about reason and progress in the context of living and dying together on a damaged planet. I will introduce the emerging philosophy of New Materialism and the concept of situated knowledges. For example, amidst the buzz about a  'green tech revolution', smart cities and the pursuit of sustainability, we must keep asking the question, 'what is to be sustained and for whom'? </abstract>
+<description>The popular narrative of salvation through technological innovation is comfortable because it doesn't confront the institutionalized inequalities, abuses, and violence endemic to modernity’s strategic relations of power and production. The dominant discourse assimilates the values and goals of sustainability with the mainstream economic paradigm of growth, and relies on technoscientific innovation to achieve these goals. Advocates for framing sustainability as a problem which can be described, confronted and resolved with technology and innovation argue that there is a need for a steady growth in consumption which can only be sustained by the drive of innovation. A key tenet of neoliberal economic theory is the push to privitize everything. The commons represent an increasingly contested site. It is our task to prevent the capture of the commons by private advantage both in material and digital spaces and corridors.</description>
+<persons>
+<person id='316'>Devyn Remme</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='GnUzvcjGxfDglWqX2WgGpA' id='307'>
+<date>2017-11-04T18:00:00+01:00</date>
+<start>18:00</start>
+<duration>00:45</duration>
+<room>Smalltalk</room>
+<slug>fscons17_-_307_-_en_-_smalltalk_-_201711041800_-_mmm_microraptor_lua_isthmus_-_oyvind_kolas</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>mmm, microraptor lua &amp; isthmus</title>
+<subtitle>A new base, for lua based ui experiments.</subtitle>
+<track>Open Technology: Infrastructure of the Future?</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Different languages and representation models facilitate different types of UI creation. This demo heavy presentation will present explorations of alternative, minimalistic development/operating environment suited for experiments and education.</abstract>
+<description>mmm - or memory mapped machine is an abstraction of framebuffer, user input and sound output using memory mapped virtual io.
+
+The dominant paradigm for creating graphical user interfaces is retained mode; the paradigm used in Motif, GTK+, qt, HTML or XAML. Microraptor gui is an alternative, immediate mode UIs, similar to imgui permitting concise procedural rather than object oriented application development. 
+
+Isthmus is a new custom musl based Linux distribution for x86/arm with a multi-tasking user interface layer implemented and adaptable in lua - that relies on neither X11 nor wayland; though they can be used for development or running applications.</description>
+<persons>
+<person id='285'>Øyvind Kolås</person>
+</persons>
+<links>
+<link href='https://github.com/hodefoting/mrg/'>microraptor gui</link>
+<link href='https;//github.com/hodefoting/mrl/'>microraptor lua</link>
+<link href='http://eid.cool/'>eid</link>
+</links>
+</event>
+</room>
+<room name='Java'>
+<event guid='Sea8ymiJWTlLru47YG_VGw' id='326'>
+<date>2017-11-04T12:00:00+01:00</date>
+<start>12:00</start>
+<duration>00:45</duration>
+<room>Java</room>
+<slug>fscons17_-_326_-_en_-_java_-_201711041200_-_taking_back_control_of_the_software_running_on_your_hardware_-_karl_trygve_kalleberg</slug>
+<recording>
+<license>CC BY</license>
+<optout>false</optout>
+</recording>
+<title>Taking back control of the software running on your hardware</title>
+<subtitle></subtitle>
+<track>Open Technology: Infrastructure of the Future?</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Open technology is a fantastically appealing dream. Here in the real world, however, many of us struggle to get by with the increasingly closed platforms that define our digital life. In this talk, we discuss how to combat closed technology with open technology, through the supernerdy activity of reverse engineering.</abstract>
+<description>Open technology is a fantastically appealing dream. Here in the real world, however, many of us struggle to get by with the increasingly closed platforms that define our digital life. In this talk, we discuss how to combat closed technology with open technology, through the supernerdy activity of reverse engineering.g is just a fancy name for taking things apart to understand how they work. We demonstrate how this can be done to closed-source software running on various different platforms. 
+
+As part of our demonstration, we cover a handful of topics relevant for the intrepid hacktivist who wants to survive in the age of gated communities: 
+* investigative capabilities available on closed mobile platforms (focus on Android and IOS)
+* trends in application sandboxing and digital rights management
+* gotchas of interoperating with proprietary protocols 
+
+We’ll approach these topics through a series of adventures on the console, alongside our favourite traveling companion: Frida. She’s an awesome (libre!) tool for inject JavaScript to explore native apps on Windows, macOS, Linux, iOS, Android, and QNX.
+
+The examples throughout the talk may be somewhat technical, but taken from everyday examples most of the audience should be able to relate to. Even if programming and reverse engineering is not your thing, you still risk learning something by showing up.
+
+</description>
+<persons>
+<person id='302'>Karl Trygve Kalleberg</person>
+</persons>
+<links>
+<link href='https://frida.re'>Frida home page</link>
+</links>
+</event>
+<event guid='CW0FdaVKwEbEXDKyLtcauw' id='354'>
+<date>2017-11-04T15:00:00+01:00</date>
+<start>15:00</start>
+<duration>00:45</duration>
+<room>Java</room>
+<slug>fscons17_-_354_-_en_-_java_-_201711041500_-_untapped_malicious_potential_-_eireann_bsb_leverett</slug>
+<recording>
+<license>CC-BY-NC-SA</license>
+<optout>false</optout>
+</recording>
+<title>Untapped Malicious Potential</title>
+<subtitle>Is rDDoS like pollution?</subtitle>
+<track>Open Technology: Infrastructure of the Future?</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>What is the best way to estimate the maximum rDDoS of the internet?
+
+Does it change over time?
+</abstract>
+<description>Sounds crazy to even try to estimate right?
+
+This presentation will cover the details of the calculation, and how we can track these numbers over time. We will also do some visualisation of this data and initiate discussion of where our resources should be spent best in fighting the threat of rDDoS attacks. The key contribution is an extensible methodology for measuring global potential for rDDoS attacks, in realistic terms of throughput. Why might this matter to DDoS mitigation, and what can we learn by watching these trends over time?</description>
+<persons>
+<person id='325'>Eireann 'bsb' Leverett</person>
+</persons>
+<links>
+<link href='https://www.measurementlab.net/publications/Leverett-Kaplan-2017.pdf'>Untapped Malicious Potential</link>
+</links>
+</event>
+<event guid='axaQnO2xgJVjc21X8P1HdQ' id='319'>
+<date>2017-11-04T16:00:00+01:00</date>
+<start>16:00</start>
+<duration>00:45</duration>
+<room>Java</room>
+<slug>fscons17_-_319_-_en_-_java_-_201711041600_-_digidem_lab_--_bringing_together_hackers_and_activists_for_social_change_-_petter_joelson</slug>
+<recording>
+<license>https://creativecommons.org/licenses/by-sa/4.0/</license>
+<optout>false</optout>
+</recording>
+<title>Digidem Lab -- bringing together hackers and activists for social change</title>
+<subtitle>Strengthening social movements and democratic participation with digital technology</subtitle>
+<track>Changing society: Redefining social structures for resilience.</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Digidem Lab from Gothenburg present their work for digital participatory democracy and discuss how to strengthen the links between hackers and social movements to counter right wing populism and political indifference.</abstract>
+<description>
+We live in a turbulent time, where many countries in Europe face the long term effects of austerity, the rising threat of right wing populism and a lack of or deteriorating trust in political process or impact. But in places like Iceland and Spain this trend has partly been countered thanks to collaboration between social movements and the civic tech community, by creating new forms of direct democratic participation with digital tools.
+
+In the workshop we explore successful examples of digital democracy projects and their relevance to our Nordic countries. How can we change the political landscape by a more extensive engagement in new technology for participation and how do we best collaborate between hackers and social movements?
+
+Digidem Lab is a new space in Gothenburg, Sweden, where young people come together to develop tech products for participation, as well as promoting and building on existing tools. We work in cooperation with social movements and bring together young activists, developers, designers and anyone who believes another world is possible. We believe new forms of participation need to come from below and spread to all sectors of society.</description>
+<persons>
+<person id='295'>Petter Joelson</person>
+</persons>
+<links>
+<link href='http://digidemlab.org'>Digidem Lab</link>
+</links>
+</event>
+</room>
+<room name='cafeteria'>
+<event guid='AzrzXXAka-zhRs5PPP_AjA' id='355'>
+<date>2017-11-04T10:00:00+01:00</date>
+<start>10:00</start>
+<duration>01:00</duration>
+<room>cafeteria</room>
+<slug>fscons17_-_355_-__-_cafeteria_-_201711041000_-_registration</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Registration</title>
+<subtitle>pick up your badges</subtitle>
+<track></track>
+<type>other</type>
+<language></language>
+<abstract>Arrival at the venue and registration at the reception desk.</abstract>
+<description></description>
+<persons>
+</persons>
+<links>
+</links>
+</event>
+<event guid='sFFZ1mMPb4H_CKyvY0tb7w' id='344'>
+<date>2017-11-04T13:00:00+01:00</date>
+<start>13:00</start>
+<duration>03:00</duration>
+<room>cafeteria</room>
+<slug>fscons17_-_344_-__-_cafeteria_-_201711041300_-_lockpicking_workshop_with_toool_nl_and_jaakko_fagerlund_at_breaks_-_dina_solveig_jalkanen_-_jaakko_fagerlund</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Lockpicking workshop with Toool.nl and Jaakko Fagerlund (at breaks)</title>
+<subtitle>How hard can it be?</subtitle>
+<track>Art: Digital and physical forms in modern culture</track>
+<type>other</type>
+<language></language>
+<abstract>Best way for introverts to spend time between sessions. Hosted by Amsterdam chapter of Toool.nl: The Open Organization of Lockpickers.</abstract>
+<description>Lock is a logical puzzle and a perfect hobby for introverts. A lock is a square thing with a hole in it, how hard can it be?</description>
+<persons>
+<person id='319'>Dina Solveig Jalkanen</person>
+<person id='324'>Jaakko Fagerlund</person>
+</persons>
+<links>
+<link href='https://toool.nl/Toool'>The Open Organisation Of Lockpickers</link>
+<link href='https://www.youtube.com/watch?v=s8aQSxXoLFk'>Key Impressioning by Jos Weyers, DefCon 19</link>
+</links>
+</event>
+</room>
+</day>
+<day date='2017-11-05' end='2017-11-05T19:00:00+01:00' index='2' start='2017-11-05T10:00:00+01:00'>
+<room name='Simula'>
+<event guid='9rxYkU9WVFxus-KsVOOqXQ' id='350'>
+<date>2017-11-05T11:00:00+01:00</date>
+<start>11:00</start>
+<duration>00:45</duration>
+<room>Simula</room>
+<slug>fscons17_-_350_-_en_-_simula_-_201711051100_-_trust_elections_and_twitter_-_patricia_aas</slug>
+<recording>
+<license>Any open license is fine</license>
+<optout>false</optout>
+</recording>
+<title>Trust, Elections and Twitter</title>
+<subtitle>How to ignore someone so loudly it becomes conspicuous</subtitle>
+<track>Changing society: Redefining social structures for resilience.</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>How my personal Twitter campaign led to changes in the Norwegian electoral system 10 days before the Parliamentary Election. A walk through of what happened and how it all came down to regular people taking time out of their lives to speak up. </abstract>
+<description>What happened from beginning to end. What made the news and what didn't. How did it feel to be in it and how I was treated by the public, by the government and by the media.
+
+How transparency and suspiciousness is fundamental to an election system and how the lack of transparency drove me to dig further into the ballot counting system in Norway. </description>
+<persons>
+<person id='321'>Patricia Aas</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='r7u6XQCaKK4MqRGbj5IB5g' id='342'>
+<date>2017-11-05T13:00:00+01:00</date>
+<start>13:00</start>
+<duration>00:45</duration>
+<room>Simula</room>
+<slug>fscons17_-_342_-__-_simula_-_201711051300_-_lunch</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Lunch</title>
+<subtitle>food be good</subtitle>
+<track>Info</track>
+<type>other</type>
+<language></language>
+<abstract></abstract>
+<description></description>
+<persons>
+</persons>
+<links>
+</links>
+</event>
+<event guid='oFJGB169YBKZhngH6a8Bow' id='316'>
+<date>2017-11-05T14:00:00+01:00</date>
+<start>14:00</start>
+<duration>00:45</duration>
+<room>Simula</room>
+<slug>fscons17_-_316_-_en_-_simula_-_201711051400_-_keynote_tba_-_linda_sandvik</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Keynote: TBA</title>
+<subtitle>TBA</subtitle>
+<track>Keynote</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>TBA</abstract>
+<description></description>
+<persons>
+<person id='292'>Linda Sandvik</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='bDSauPSG6MNjAk1U371vAw' id='310'>
+<date>2017-11-05T15:00:00+01:00</date>
+<start>15:00</start>
+<duration>00:45</duration>
+<room>Simula</room>
+<slug>fscons17_-_310_-_en_-_simula_-_201711051500_-_on_the_future_of_hope_-_dougald_hine</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title> On the future of hope</title>
+<subtitle></subtitle>
+<track>Art: Digital and physical forms in modern culture</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>What does it mean to have hope 'in the absence of progress'? Over the past few years, I've talked at FSCONS about how we disentangle our thinking and our hopes from the cultural logic of progress - and how the stories we usually tell about the shape of history can mislead us. In this talk, I want to draw on James C Scott's book, 'The Art of Not Being Governed', to see if we can find a story about politics and technology that is neither the default narrative of civilisational progress, nor the romantic (anarcho-)primitivism that often seems like the alternative to that narrative.</abstract>
+<description></description>
+<persons>
+<person id='14'>Dougald Hine</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='gpe4ddcL9Mqhe5rR4kHDMA' id='332'>
+<date>2017-11-05T16:00:00+01:00</date>
+<start>16:00</start>
+<duration>00:45</duration>
+<room>Simula</room>
+<slug>fscons17_-_332_-__-_simula_-_201711051600_-_lightning_talks_2</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Lightning Talks 2</title>
+<subtitle>second lightning talks session</subtitle>
+<track>Lightning talks</track>
+<type>lightning_talk</type>
+<language></language>
+<abstract></abstract>
+<description></description>
+<persons>
+</persons>
+<links>
+</links>
+</event>
+<event guid='XSlNI-Y78aVx8Qirl3FHpQ' id='335'>
+<date>2017-11-05T17:00:00+01:00</date>
+<start>17:00</start>
+<duration>00:45</duration>
+<room>Simula</room>
+<slug>fscons17_-_335_-_en_-_simula_-_201711051700_-_towards_a_global_cryptocurrency_infrastructure_a_revolutionary_sharing_economy_-_pal_taule_brentebraten</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Towards a Global Cryptocurrency Infrastructure: A Revolutionary Sharing Economy</title>
+<subtitle>Can we get a REALLY Revolutionary Sharing Economy -- by The People and for The People?</subtitle>
+<track>Changing society: Redefining social structures for resilience.</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Cryptocurrencies are what makes a true sharing economy possible. How the macroeconomics of blockchain technology differs from the sharing economies of today and yesterday. How inflation and the boom and bust business cycle can be prevented. How Bitcoin saves Venezuela.</abstract>
+<description>Yesterday we bartered with favors. If you do something for me, I will do something for you in return.
+
+Today giant tech companies has commercialised the favor for a favor economy. They have built strong platforms with algorithms to match two parties in a market. Uber matches drivers with people that need a ride, AirBnB matches people that are in need of a place to stay with people that are renting out their apartments. They call this the sharing economy, but there is no such thing as sharing in it.
+
+Tomorrow, we will build the true sharing economy on decentralized platforms that is owned by the people and not giant tech corporations. We will build platforms where the value is not extracted by a third party, but distributed right back into the network. We will build bottom up organizations with structures of collaboration and sharing rather than top down hierarchies of command and control.
+
+* A brief history of the sharing economy
+* How the sharing economy works today
+* How blockchain can transform the sharing economy
+* Hurdles ahead, challenges of using blockchains
+* Think big, think ahead, see a world of opportunities
+
+How cryptocurrencies can enable a true sharing economy.
+
+Challenges ahead:
+Infrastructure and global adoption
+Regulation vs Innovation
+What’s next?
+Universal Basic Income (UBI)
+A decentralized Internet
+Nexus
+</description>
+<persons>
+<person id='320'>Pål Taule Brentebråten</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='IZtQ9nmrMsgRjIjxjn_Mjw' id='356'>
+<date>2017-11-05T18:00:00+01:00</date>
+<start>18:00</start>
+<duration>00:15</duration>
+<room>Simula</room>
+<slug>fscons17_-_356_-_en_-_simula_-_201711051800_-_goodbye_-_kacper_why_-_thomas_gramstad_-_hans-petter_fjeld_-_henrik_sigmundstad</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Goodbye</title>
+<subtitle>see u next year</subtitle>
+<track>Keynote</track>
+<type>other</type>
+<language>en</language>
+<abstract></abstract>
+<description></description>
+<persons>
+<person id='282'>Kacper Why</person>
+<person id='11'>Thomas Gramstad</person>
+<person id='283'>Hans-Petter Fjeld</person>
+<person id='284'>Henrik Sigmundstad</person>
+</persons>
+<links>
+</links>
+</event>
+</room>
+<room name='Smalltalk'>
+<event guid='ZwJTLDBBCwuS-2x_Y6XCsg' id='343'>
+<date>2017-11-05T11:00:00+01:00</date>
+<start>11:00</start>
+<duration>00:45</duration>
+<room>Smalltalk</room>
+<slug>fscons17_-_343_-_en_-_smalltalk_-_201711051100_-_the_lie_of_a_black_hoodie_hack_the_planet_-_dina_solveig_jalkanen_-_stef_van_dop</slug>
+<recording>
+<license></license>
+<optout>true</optout>
+</recording>
+<title>The lie of a black hoodie: hack the planet!</title>
+<subtitle>Some history and pentesting perspectives</subtitle>
+<track>Changing society: Redefining social structures for resilience.</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>We will define hacker, we will not use hats. We will take a look at extremely exciting history facts, societal changes and subjects brought forward by hacking and check out the European network of hackerspaces and events.</abstract>
+<description>Media is wrong and has been using very cheap stock photos of hoodies,
+while better hoodies are available.
+
+At the same time, hacktivists around the world engage in responsible disclosure, take part in FOSS projects and bring up important topics.
+Can hacking bring positive change to society? What is the current agenda?
+
+Also: how embracing hackers leads to getting lots of good resp disclosures, and a bit about technical and logic mistakes/hacks with some examples.
+
+With Stef van Dop</description>
+<persons>
+<person id='319'>Dina Solveig Jalkanen</person>
+<person id='322'>Stef van Dop</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='X6I-j3r6p_wpjd9FlXMgwg' id='328'>
+<date>2017-11-05T11:45:00+01:00</date>
+<start>11:45</start>
+<duration>01:30</duration>
+<room>Smalltalk</room>
+<slug>fscons17_-_328_-_false_-_smalltalk_-_201711051145_-_hacking_with_care_-_jeremie_zimmermann</slug>
+<recording>
+<license>most permissive one, as everybody else</license>
+<optout>false</optout>
+</recording>
+<title>Hacking with Care!</title>
+<subtitle>care in accordance with hackers ethics and peer-to-peer philosophy</subtitle>
+<track>Changing society: Redefining social structures for resilience.</track>
+<type>workshop</type>
+<language>false</language>
+<abstract>TBD</abstract>
+<description>TBD</description>
+<persons>
+<person id='304'>Jérémie Zimmermann</person>
+</persons>
+<links>
+<link href='https://hackingwithcare.in/wiki'>Hacking with Care wiki </link>
+</links>
+</event>
+<event guid='c1U0oXPPUkRrBPTjOsNRJQ' id='323'>
+<date>2017-11-05T15:00:00+01:00</date>
+<start>15:00</start>
+<duration>00:45</duration>
+<room>Smalltalk</room>
+<slug>fscons17_-_323_-_en_-_smalltalk_-_201711051500_-_teaching_ethics_and_society_issues_for_students_in_information_systems_or_computer_science_-_oyvind_hanssen</slug>
+<recording>
+<license>CC/BY</license>
+<optout>true</optout>
+</recording>
+<title>Teaching ethics and society issues for students in information systems or computer science. </title>
+<subtitle></subtitle>
+<track>Open Technology: Infrastructure of the Future?</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>The topic if this event is how to teach ethics and society issues for computer science or information system students at a university introductory level. I will discuss my own teaching which has received good feedback from students and what we can learn from this.</abstract>
+<description>For the past years I have been teaching a course &quot;Ethics and IT-professionality&quot; for first-year students in information systems. From the feedback I have got, this have been spot on. 
+
+The main topics are: 
+- The technological development (history). 
+- Introduction to ethics. 
+- Privacy and surveillance. 
+- Freedom of speech and censorship. 
+- Intellectual property rights. Patents, copyright, copyleft. 
+- Other topics like hacking, hacktivism, open standards, digital divide, etc.. 
+
+It is obviously not just ethics but also society issues, Some of these topics has a focus on human rights and free society. culture that IT-professionals care about, law, etc..  I have had an almost surprising success with this course and want to get more knowledge on why this is the case. I also want to develop it further and hope to come out with some recommendations for how one can give such a course for students in information systems or computer science in general. Since there is a lack of textbooks in this area in Scandinavia I hope to create some interest in writing such a book as a collaborative project. 
+
+I have been given a 50K grant from the Excited project (NTNU/Nord University) to do this research. My talk on FSCONS would be a part of this work. </description>
+<persons>
+<person id='191'>Øyvind Hanssen</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='iKiVVMFdFvVScYw7PyfF_w' id='324'>
+<date>2017-11-05T17:00:00+01:00</date>
+<start>17:00</start>
+<duration>00:45</duration>
+<room>Smalltalk</room>
+<slug>fscons17_-_324_-_en_-_smalltalk_-_201711051700_-_why_we_need_free_password_managers_-_joakim_lundborg</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Why we need free password managers</title>
+<subtitle>Who owns the keys to your kingdom?</subtitle>
+<track>Open Technology: Infrastructure of the Future?</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Password managers are becoming an important part of the security infrastructure, but increasingly closed source applications are used for this purpose. This talk uses my ripasso as a spring drive to discuss the role of this type of software.</abstract>
+<description>This talk will be about my experience building uis for the pass password manager, and some related concerns:
+
+* Why usability is a security feature
+*The need for free software password manages
+* Can this be a path to drive GPG adoption?
+
+https://github.com/cortex/gopass
+https://github.com/cortex/ripasso</description>
+<persons>
+<person id='300'>Joakim Lundborg</person>
+</persons>
+<links>
+</links>
+</event>
+</room>
+<room name='Java'>
+<event guid='Zuz3HgXsKvXRm38gQQvmjA' id='352'>
+<date>2017-11-05T11:00:00+01:00</date>
+<start>11:00</start>
+<duration>00:45</duration>
+<room>Java</room>
+<slug>fscons17_-_352_-_en_-_java_-_201711051100_-_replacing_core_infrastructure_without_disrupting_the_community_the_vlc_way_-_geoffroy_couprie</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Replacing core infrastructure without disrupting the community, the VLC way</title>
+<subtitle></subtitle>
+<track>Open Technology: Infrastructure of the Future?</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>We built all our systems on the same tools and practices, layers after layers, some of them barely maintained by overworked open source developers. The cracks are showing. We will not rebuild everything from scratch. How can we repair our core infrastructure for the next 20 years, replacing weak elements little by little, without disrupting our systems and communities?</abstract>
+<description>This talk draws from ongoing work on VLC media player, Rust and Langsec, and focuses on tools and ideas to improve the basic building blocks of our system. There's a special attention to the way it can be introduced in existing projects and communities without disrupting their development or losing knowledge, and how we can build upon the previous steps to make the next one safer.</description>
+<persons>
+<person id='323'>Geoffroy Couprie</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='POVblxGRb7w7m4FPDzy4lw' id='330'>
+<date>2017-11-05T11:45:00+01:00</date>
+<start>11:45</start>
+<duration>01:30</duration>
+<room>Java</room>
+<slug>fscons17_-_330_-_en_-_java_-_201711051145_-_video_editing</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Video editing</title>
+<subtitle>free tools for video editing</subtitle>
+<track>Art: Digital and physical forms in modern culture</track>
+<type>workshop</type>
+<language>en</language>
+<abstract></abstract>
+<description></description>
+<persons>
+</persons>
+<links>
+</links>
+</event>
+<event guid='vGGFMAi-T6zkGYaG2TXssA' id='325'>
+<date>2017-11-05T17:00:00+01:00</date>
+<start>17:00</start>
+<duration>00:45</duration>
+<room>Java</room>
+<slug>fscons17_-_325_-_en_-_java_-_201711051700_-_communication_infrastructure_a_form_of_resistance_-_gustav_eek</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Communication infrastructure – a form of resistance</title>
+<subtitle>Fripost: digital technology as a common good for user freedom and control</subtitle>
+<track>Open Technology: Infrastructure of the Future?</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>In this lecture the democratic principles of Fripost, the free email
+association (founded in 2010) will be presented. Infrastructure for
+electronic communication will be resembled with a common good (a
+resource). That using a critique of the &lt;em&gt;public–private&lt;/em&gt; dichotomy,
+and the tragedy of the commons. I will then demonstrate how also
+complicated resources can (and must) be made subject to democratic
+control.</abstract>
+<description>&lt;p&gt;The importance of Internet as communication medium can not be questioned. For those who take user freedom seriously it is saddening to see how the Internet has changed from being a common and highly distributed network to the increasingly privatised web we encounter today.&lt;/p&gt;
+&lt;p&gt;In this lecture I will present the democratic principles of Fripost, the free email association which was founded as a reaction to that development. I will resemble infrastructure for electronic communication with a common good (a resource), and I will demonstrate how also complicated resources can (and must) be made subject to democratic control.&lt;/p&gt;
+&lt;p&gt;Fripost and its foundation and democratic principals has been presented several times since its constitution in 2010, also at FSCONS. This is why the lecture also will take a different and broader stand, inspired by some recent readings. The Fripost initative will also be put in context of local struggles with global implication.&lt;/p&gt;
+&lt;p&gt;In short, the idea that every resource needs an single responsible and managing owner is unsatisfactory as well as the dichotomy &lt;em&gt;public–private&lt;/em&gt;. What is not managed can not yield profit. But some things are to important even to be managed. Naturally this touches on a critique (which has been presented many times before) of Hardin’s classical tragedy of the commons. Regarding the enclosure of the commons, management in it self causes the scarcity, The commons are not scarce resources that requires management.&lt;/p&gt;
+&lt;p&gt;It is not obvious, however, how digital technology and technology based on Internet can be recognised as a resource and common good. Though “friendly” in its usage, digital technology is intrinsically intricate and complicated in its internals, and the distance is far between the providing and consuming ends. What is the interpretation of democratic influence and control in the case of digital technology? And what is user freedom for Internet services?&lt;/p&gt;
+&lt;p&gt;Here Fripost becomes an example of central communication infrastructure that implements democratic “ownership”, maintenance, and development. And democracy is &lt;em&gt;equal influence&lt;/em&gt;: it does not stop at the gathering of opinion.&lt;/p&gt;
+&lt;p&gt;Equal influence is ambitious, and how it is interpreted in Fripost will be discussed in its details, but in short the key is that Fripost’s commitment is equally much social as it is technical: all decisions originates from the members, short term as well as strategical; activities are balanced between the association’s three legs: (a) technology, (b) adult education, and (c) propaganda; and sustainability is the leading word.&lt;/p&gt;
+&lt;p&gt;I humbly recognise that what we do is small in scale and ambition. But I still want to put it in the context of important local struggles that with global implication. In the world, farmers fight for land, urban folks for water, and students for independent universities. We fight for the right and free access to Internet and the means for communication. Internet is designed to be distributed and for equal unlimited access for everyone. That sounds quite much like a common good, and commons require equal influence.&lt;/p&gt;
+&lt;p&gt;The moral of the presentation is of course that we should fight back against the privatisation process, particularly that of the web. Fripost illustrates that it is possible and also suggest how it can be done.&lt;/p&gt;</description>
+<persons>
+<person id='199'>Gustav Eek</person>
+</persons>
+<links>
+</links>
+</event>
+</room>
+<room name='cafeteria'>
+<event guid='iarVE49uiLKimUSMrL0u7Q' id='346'>
+<date>2017-11-05T13:15:00+01:00</date>
+<start>13:15</start>
+<duration>00:30</duration>
+<room>cafeteria</room>
+<slug>fscons17_-_346_-_en_-_cafeteria_-_201711051315_-_introvert_meetup_-_dina_solveig_jalkanen</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Introvert meetup</title>
+<subtitle>A breather </subtitle>
+<track></track>
+<type>meeting</type>
+<language>en</language>
+<abstract>Let's be introverts together.</abstract>
+<description>You can learn to draw a unicorn, take a go at an easy logical puzzle or share tips on being an introvert at large events. Speaking entirely optional. Everybody warmly welcome.</description>
+<persons>
+<person id='319'>Dina Solveig Jalkanen</person>
+</persons>
+<links>
+</links>
+</event>
+</room>
+</day>
+</schedule>

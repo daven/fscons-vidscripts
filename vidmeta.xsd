@@ -1,0 +1,43 @@
+<?xml version="1.0"?> 
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="video">
+    <xs:complexType>
+            <xs:sequence>
+                <xs:element name="title" type="xs:string" />
+		<xs:element name="description" type="xs:string" />
+		<xs:element name="speakers">
+			<xs:complexType>
+				<xs:sequence>
+					<xs:element name="speaker" maxOccurs="unbounded"> 
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="speakerName" type="xs:string" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:sequence>
+			</xs:complexType>
+		</xs:element>
+		<xs:element name="sourcefiles">
+			<xs:complexType>
+				<xs:sequence>
+					<xs:element name="sourcefile" maxOccurs="unbounded">  
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="file" type="xs:string" > 
+								<!-- <xs:attribute name="order" type="xs:integer" default="1" />-->
+								</xs:element>	
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:sequence>
+			</xs:complexType>
+		</xs:element>
+		<xs:element name="inpoint" type="xs:integer" />
+		<xs:element name="duration" type="xs:integer" />
+		<xs:element name="slug" type="xs:string" />
+            </xs:sequence>
+        </xs:complexType>
+</xs:element>
+</xs:schema>
